@@ -1,0 +1,4 @@
+# NOTE: Update these TFRecord names from "cells" and "cells_label_map" to your files!
+test_record_fname = 'tensorflow-object-detection\data\test\export\ppe.tfrecord'
+train_record_fname = 'tensorflow-object-detection\data\train\export\ppe.tfrecord'
+label_map_pbtxt_fname = 'tensorflow-object-detection\data\train\export\ppe.pbtxt'
