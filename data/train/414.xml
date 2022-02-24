@@ -1,7 +1,7 @@
 <annotation>
 	<folder>XML</folder>
 	<filename>414.jpg</filename>
-	<path>..\JPEGImages\414.jpg</path>
+	<path>../JPEGImages/414.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
