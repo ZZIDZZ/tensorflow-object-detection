@@ -1,1 +1,1 @@
-helmet,vest,No helmet
+helmet,vest,no_helmet
